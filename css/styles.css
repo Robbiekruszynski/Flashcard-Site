@@ -1,11 +1,63 @@
 .jumbotron {
   text-align: center;
 }
-
-.info {
-  display: none;
+body, html {
+background-image: url("../img/flip.gif");
+background-size: cover;
 }
 
-.info2 {
+#info1 {
   display: none;
+  background-color: rgba(255,255,255,);
+}
+
+#info2 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+
+#info3 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+
+#info4 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+
+#info5 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+
+#info6 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+
+#info7 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+
+#info8 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+#info9 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+#info10 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+#info11 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
+}
+#info12 {
+  display: none;
+  background-color: rgba(255,255,255,.75);
 }
